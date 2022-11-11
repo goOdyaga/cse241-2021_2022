@@ -1,0 +1,41 @@
+Welcome KLOTSKI Puzzle
+
+GAME WILL PLAYED BY USER
+GOOD LUCK:))
+  A   B   C   D   
+1   B   A   A   C   
+2   B   A   A   C   
+3   D   F   F   E   
+4   D   G   H   E   
+5   K         L   
+  A   B   C   D   
+1   B   A   A   C   
+2   B   A   A   C   
+3   D   F   F   E   
+4   D   G   H   E   
+5   K         L   
+  A   B   C   D   
+1   B   A   A   C   
+2   B   A   A   C   
+3   D   F   F   E   
+4   D   G   H   E   
+5   K         L   
+
+Please write your movement , for finish game type EXIT:
+Undefine input for playing game:
+  A   B   C   D   
+1   B   A   A   C   
+2   B   A   A   C   
+3   D   F   F   E   
+4   D   G   H   E   
+5   K         L   
+  A   B   C   D   
+1   B   A   A   C   
+2   B   A   A   C   
+3   D   F   F   E   
+4   D   G   H   E   
+5   K         L   
+
+Please write your movement , for finish game type EXIT:
+Game has finished
+Your score is 0

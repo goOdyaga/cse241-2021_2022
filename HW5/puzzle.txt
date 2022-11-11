@@ -1,0 +1,130 @@
+Welcome 3x3 Puzzle
+
+GAME WILL PLAYED BY USER
+GOOD LUCK:))
+A B C 
+1| 8 2 4 
+2| 7 5 3 
+3| 1 6 0 
+A B C 
+1| 8 2 4 
+2| 7 5 3 
+3| 1 6 0 
+A B C 
+1| 8 2 4 
+2| 7 5 3 
+3| 1 6 0 
+
+Please write your movement , for finish game type EXIT:
+Undefine input for playing game:
+A B C 
+1| 8 2 4 
+2| 7 5 3 
+3| 1 6 0 
+A B C 
+1| 8 2 4 
+2| 7 5 3 
+3| 1 6 0 
+
+Please write your movement , for finish game type EXIT:
+Undefine input for playing game:
+A B C 
+1| 8 2 4 
+2| 7 5 3 
+3| 1 6 0 
+A B C 
+1| 8 2 4 
+2| 7 5 3 
+3| 1 6 0 
+
+Please write your movement , for finish game type EXIT:
+Undefine input for playing game:
+A B C 
+1| 8 2 4 
+2| 7 5 3 
+3| 1 6 0 
+A B C 
+1| 8 2 4 
+2| 7 5 3 
+3| 1 6 0 
+
+Please write your movement , for finish game type EXIT:
+Undefine input for playing game:
+A B C 
+1| 8 2 4 
+2| 7 5 3 
+3| 1 6 0 
+A B C 
+1| 8 2 4 
+2| 7 5 3 
+3| 1 6 0 
+
+Please write your movement , for finish game type EXIT:
+Undefine input for playing game:
+A B C 
+1| 8 2 4 
+2| 7 5 3 
+3| 1 6 0 
+A B C 
+1| 8 2 4 
+2| 7 5 3 
+3| 1 6 0 
+
+Please write your movement , for finish game type EXIT:
+Undefine input for playing game:
+A B C 
+1| 8 2 4 
+2| 7 5 3 
+3| 1 6 0 
+A B C 
+1| 8 2 4 
+2| 7 5 3 
+3| 1 6 0 
+
+Please write your movement , for finish game type EXIT:
+Undefine input for playing game:
+A B C 
+1| 8 2 4 
+2| 7 5 3 
+3| 1 6 0 
+A B C 
+1| 8 2 4 
+2| 7 5 3 
+3| 1 6 0 
+
+Please write your movement , for finish game type EXIT:
+Undefine input for playing game:
+A B C 
+1| 8 2 4 
+2| 7 5 3 
+3| 1 6 0 
+A B C 
+1| 8 2 4 
+2| 7 5 3 
+3| 1 6 0 
+
+Please write your movement , for finish game type EXIT:
+Undefine input for playing game:
+A B C 
+1| 8 2 4 
+2| 7 5 3 
+3| 1 6 0 
+A B C 
+1| 8 2 4 
+2| 7 5 3 
+3| 1 6 0 
+
+Please write your movement , for finish game type EXIT:
+Undefine input for playing game:
+A B C 
+1| 8 2 4 
+2| 7 5 3 
+3| 1 6 0 
+A B C 
+1| 8 2 4 
+2| 7 5 3 
+3| 1 6 0 
+
+Please write your movement , for finish game type EXIT:
+Game has finished
+Your score is 0

@@ -1,0 +1,82 @@
+outputs of obj1's opeartor<< and it's size is 6
+index number of object 0 Month : 7 -> Day : 4
+index number of object 1 Month : 3 -> Day : 3
+index number of object 2 Month : 4 -> Day : 4
+index number of object 3 Month : 5 -> Day : 5
+index number of object 4 Month : 6 -> Day : 6
+index number of object 5 Month : 7 -> Day : 8
+
+
+
+outputs of obj2's opeartor<< and it's size is 6
+index number of object 0 Month : 1 -> Day : 1
+index number of object 1 Month : 2 -> Day : 2
+index number of object 2 Month : 4 -> Day : 8
+index number of object 3 Month : 5 -> Day : 8
+index number of object 4 Month : 6 -> Day : 8
+index number of object 5 Month : 7 -> Day : 8
+
+
+
+objects are not equal
+
+Testing of DayofYearSet operator+ function
+ Month Number is : 7
+ Day Number is : 4
+
+ Month Number is : 3
+ Day Number is : 3
+
+ Month Number is : 4
+ Day Number is : 4
+
+ Month Number is : 5
+ Day Number is : 5
+
+ Month Number is : 6
+ Day Number is : 6
+
+ Month Number is : 7
+ Day Number is : 8
+
+ Month Number is : 1
+ Day Number is : 1
+
+ Month Number is : 2
+ Day Number is : 2
+
+ Month Number is : 4
+ Day Number is : 8
+
+ Month Number is : 5
+ Day Number is : 8
+
+ Month Number is : 6
+ Day Number is : 8
+
+
+
+Testing of DayofYearSet operator- function
+ Month Number is : 1
+ Day Number is : 1
+
+ Month Number is : 2
+ Day Number is : 2
+
+ Month Number is : 4
+ Day Number is : 8
+
+ Month Number is : 5
+ Day Number is : 8
+
+ Month Number is : 6
+ Day Number is : 8
+
+
+Testing of operation^ 
+ Month Number is : 7
+ Day Number is : 8
+
+
+Morgan says that !(object1 + object2) == !object1 ^ !object2
+Checking De Morgan Law:
